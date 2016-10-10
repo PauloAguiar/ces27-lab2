@@ -3,7 +3,7 @@ package dynamo
 import (
     "log"
 
-    "github.com/pauloaguiar/dynamo-lab2/common/consistenthash"
+    "github.com/pauloaguiar/ces27-lab2/common/consistenthash"
 )
 
 // Ring is the struct that will hold the current status of the consistent hash

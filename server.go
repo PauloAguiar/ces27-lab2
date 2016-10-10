@@ -3,7 +3,7 @@ package main
 import (
 	"flag"
 
-	"github.com/pauloaguiar/dynamo-lab2/dynamo"
+	"github.com/pauloaguiar/ces27-lab2/dynamo"
 )
 
 var (

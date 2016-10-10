@@ -5,7 +5,7 @@ import (
   "log"
   "net/rpc"
 
-  "github.com/pauloaguiar/dynamo-lab2/api"
+  "github.com/pauloaguiar/ces27-lab2/api"
 )
 
 func main() {

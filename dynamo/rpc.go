@@ -1,6 +1,6 @@
 package dynamo
 
-import "github.com/pauloaguiar/dynamo-lab2/api"
+import "github.com/pauloaguiar/ces27-lab2/api"
 
 // RPC is the struct on which the public API operations will be called.
 type RPC struct {
